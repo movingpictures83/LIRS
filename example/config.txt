@@ -1,0 +1,2 @@
+Prefix plugins/LIRS/example
+Plugin LIRS inputfile parameters.txt outputfile output.txt
